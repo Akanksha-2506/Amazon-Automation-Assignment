@@ -1,4 +1,3 @@
-# Python
 __pycache__/
 *.py[cod]
 *.egg-info/
@@ -7,20 +6,12 @@ build/
 .venv/
 venv/
 env/
-
-# Env secrets — never commit!
 .env
-
-# Playwright
 playwright-report/
 test-results/
-
-# Reports & screenshots
 reports/*.html
 reports/*.png
 reports/*.json
-
-# IDE
 .vscode/
 .idea/
 *.swp
